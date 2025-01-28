@@ -1,5 +1,5 @@
 import "./Meditation.css";
-import ImageMeditation from "./zen-attitude/meditation.jpg";
+import ImageMeditation from "../zen-attitude/meditation.jpg";
 
 function Meditation() {
 	return (
