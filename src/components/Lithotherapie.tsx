@@ -1,4 +1,4 @@
-import ImageLitho from "./zen-attitude//litho.jpg";
+import ImageLitho from "../zen-attitude/litho.jpg";
 import "./Lithotherapie.css";
 
 function Litho() {
