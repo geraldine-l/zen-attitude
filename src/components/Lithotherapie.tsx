@@ -1,4 +1,4 @@
-import ImageLitho from "public/litho.jpg";
+import ImageLitho from "../assets/litho.jpg";
 import "./Lithotherapie.css";
 
 function Litho() {

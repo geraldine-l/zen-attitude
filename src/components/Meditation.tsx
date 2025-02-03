@@ -1,5 +1,5 @@
 import "./Meditation.css";
-import ImageMeditation from "public/meditation.jpg";
+import ImageMeditation from "../assets/meditation.jpg";
 
 function Meditation() {
 	return (
