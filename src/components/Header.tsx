@@ -1,4 +1,4 @@
-import ImageBanner from "../assets/banniere.jpg";
+import ImageBanner from "/banniere.jpg";
 import './Header.css';
 
 function Header() {
