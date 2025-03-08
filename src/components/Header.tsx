@@ -1,4 +1,4 @@
-import ImageBanner from "/banniere.jpg";
+import ImageBanner from "${process.env.PUBLIC_URL}/banniere.jpg";
 import './Header.css';
 
 function Header() {

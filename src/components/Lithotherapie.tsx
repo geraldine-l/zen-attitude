@@ -1,4 +1,4 @@
-import ImageLitho from "/litho.jpg";
+import ImageLitho from "${process.env.PUBLIC_URL}/litho.jpg";
 import "./Lithotherapie.css";
 
 function Litho() {

@@ -1,5 +1,5 @@
 import "./Meditation.css";
-import ImageMeditation from "/meditation.jpg";
+import ImageMeditation from "${process.env.PUBLIC_URL}/meditation.jpg";
 
 function Meditation() {
 	return (
